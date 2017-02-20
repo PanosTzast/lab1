@@ -1,2 +1,2 @@
 # lab1
-cd <GitHub-userName>_labs
+cd <GitHub-PanosTzast>_labs
